@@ -5,9 +5,10 @@
       latitude,start station longitude,end station id,end station name,end station latitude,end station longitude,bikeid,usertype,
       birth year,gender.
       
-2. jupyterwork folder contains Bike_share_Analysis.ipynb which is a jupyter notebook file.This file is used to perform analysis of
+2. jupyterwork folder contains Bike_Share_Analysis.ipynb which is a jupyter notebook file.This file is used to perform analysis of
       bike sharing system.
       
-      
+3. Bike_Share_Analysis.html is a html type file of Bike_Share_Analysis.ipynb.      
+
 
 
